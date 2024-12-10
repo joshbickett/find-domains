@@ -8,4 +8,5 @@ Interested in finding a domain for your next project but don't feel like searchi
 2. Add the API key on line 4 of `main.py` where it says `API_KEY`
 3. Add your `domains_to_check` in `main.py`
 4. Run `python main.py` and see results
-5. Go crazy on your next project!
+
+@#$QASEFASD!!! nevermind - I just found that the following tool exist so ignore this repo it is useless: https://www.godaddy.com/domains/bulk-domain-search
